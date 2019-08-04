@@ -1,2 +1,2 @@
 # azure-devops
-Azure DevOps integration plugin for devpal
+Integrate Azure DevOps Repository Pullrequests into devpal
